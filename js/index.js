@@ -1,8 +1,8 @@
 function preloader() {
     const imagesList = [
-        "./img/tiles-1191931.webp",
-        "./img/solar-panel-1424264.webp",
-        "./img/wind-mill-1425007.webp"
+        "./img/tiles-1191931.jpg",
+        "./img/solar-panel-1424264.jpg",
+        "./img/wind-mill-1425007.jpg"
     ];
 
 
@@ -27,14 +27,14 @@ let resources = {
     p1: {
         title: 'Wind Power',
         bodyText: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. ',
-        url: './img/wind-mill-1425007.webp',
+        url: 'img/wind-mill-1425007.jpg',
     },
 
 
     p2: {
         title: 'Solar Panels',
         bodyText: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. ',
-        url: './img/solar-panel-1424264.webp',
+        url: 'img/solar-panel-1424264.jpg',
     },
 
 
@@ -42,7 +42,7 @@ let resources = {
     p3: {
         title: 'Speciality tiles',
         bodyText: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut risus velit, porta eget scelerisque vitae, eleifend vel neque. Nulla ac urna felis. Morbi viverra bibendum ligula vel ullamcorper. Curabitur metus nibh, accumsan vel nunc maximus, convallis consectetur orci. Sed porttitor nisl sed condimentum posuere. Proin nec tellus eros. Etiam et libero a mauris malesuada bibendum. ',
-        url: './img/tiles-1191931.webp',
+        url: 'img/tiles-1191931.jpg',
     }
 }
 
